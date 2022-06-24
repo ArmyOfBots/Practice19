@@ -1,0 +1,59 @@
+.CurrentNavigationButton {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-size: 18px;
+}
+
+.NavigationButton {
+  color: black;
+  text-decoration: none;
+  font-weight: normal;
+  font-family: 'Open Sans';
+  font-size: 18px;
+}
+
+.NavigationTable {
+	margin-left: 205px;
+	margin-top: 20px;
+	margin-right: 201px;
+	margin-bottom: 26px;
+	width:100%;
+}
+
+.BackPictureContainer {
+	width:100%;
+}
+
+.BackPictureImg {
+	width:100%;
+	object-fit: fill;
+}
+
+.BackPictureText {
+	position: absolute;
+    top: 75%;
+    left: 40%;
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 72px;
+	line-height: 80px;
+	letter-spacing: 0.03em;
+	color: #FFFFFF;
+	text-shadow: #30ABAE 0px 0px 5px;
+}
+
+.BoringStuff {
+	margin-top: 81px;
+	margin-left: 780px;
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 48px;
+	letter-spacing: 0.03em;
+	color: #000000;
+}
